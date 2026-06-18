@@ -1,6 +1,6 @@
 # Royal Palace Hotel Website
 
-A responsive, professional hotel website built with Bootstrap 5 and modern web technologies.
+Royal Palace Hotel Website is a responsive web application designed to showcase hotel services, rooms, events, gallery, pricing, and contact information. The website provides a modern user experience across desktop, tablet, and mobile devices..
 
 ## 🏨 Project Overview
 
@@ -137,24 +137,15 @@ The contact form is handled by `forms/contact.php`. To enable:
 - Modify section IDs for smooth scrolling
 - Update mobile menu in `assets/js/main.js`
 
-## 🐛 Known Issues & Notes
-
-- Path references use mixed slashes (backslash in some places)
-- SCSS source files only available in pro version
-- Some pages still contain template placeholder text
-- inner-page.html still references "Vlava" template name
 
 ## 📄 License
 
-This project uses the free Vlava Bootstrap template from BootstrapMade.com
-- Template License: https://bootstrapmade.com/license/
-- Template URL: https://bootstrapmade.com/vlava-free-bootstrap-one-page-template/
+This project is created for educational and portfolio purposes.
+
 
 ## 👥 Credits
 
-**Created by:** Mahesh Suryawanshi & Team
-
-**Based on:** Vlava Template by BootstrapMade
+**Created by:** Mahesh Suryawanshi 
 
 ## 🤝 Contributing
 

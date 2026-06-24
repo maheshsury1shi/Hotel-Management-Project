@@ -1,8 +1,8 @@
-# Royal Palace Hotel Website
+## Royal Palace Hotel Website ##
 
 Royal Palace Hotel Website is a responsive web application designed to showcase hotel services, rooms, events, gallery, pricing, and contact information. The website provides a modern user experience across desktop, tablet, and mobile devices..
 
-## 🏨 Project Overview
+## 🏨 Project Overview ##
 
 Royal Palace is a beautifully designed hotel website featuring:
 - Responsive design that works on all devices
@@ -14,7 +14,7 @@ Royal Palace is a beautifully designed hotel website featuring:
 - Contact form for inquiries
 - Smooth scrolling navigation
 
-## 📁 Project Structure
+## 📁 Project Structure ##
 
 ```
 Royal Palace Orignal/
@@ -43,7 +43,7 @@ Royal Palace Orignal/
 │       └── swiper/            # Touch carousel
 ```
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used ##
 
 - **HTML5** - Semantic markup
 - **CSS3** - Custom styling with Bootstrap 5
@@ -56,20 +56,20 @@ Royal Palace Orignal/
   - Isotope - Portfolio grid filtering
   - Bootstrap Icons, Boxicons, Remix Icons
 
-## 🎨 Color Scheme
+## 🎨 Color Scheme ##
 
 - **Primary Color:** #85b0be (Teal/Blue)
 - **Secondary Colors:** Various shades for contrast and accessibility
 
-## 📋 Key Features
+## 📋 Key Features ##
 
-### Navigation
+### Navigation ##
 - Fixed transparent header with logo
 - Smooth scroll navigation
 - Mobile-responsive hamburger menu
 - Active state tracking on scroll
 
-### Sections
+### Sections ##
 - **Hero** - Eye-catching landing banner
 - **About** - Hotel information and highlights
 - **Services** - Amenities and services
@@ -79,18 +79,18 @@ Royal Palace Orignal/
 - **Team** - Staff profiles
 - **Contact** - Contact form and information
 
-### Responsive Design
+### Responsive Design ##
 - Mobile-first approach
 - Tablet and desktop optimization
 - Touch-friendly interface
 
-## 🚀 Getting Started
+## 🚀 Getting Started ##
 
-### Prerequisites
+### Prerequisites ##
 - Modern web browser
 - Optional: PHP server for contact form functionality
 
-### Installation
+### Installation ##
 
 1. Clone the repository
 ```bash

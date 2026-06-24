@@ -112,7 +112,7 @@ php -S localhost:8000
 # Then visit http://localhost:8000
 ```
 
-## 💬 Contact Form
+## 💬 Contact Form ##
 
 The contact form is handled by `forms/contact.php`. To enable:
 
